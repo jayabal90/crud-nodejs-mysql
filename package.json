@@ -1,0 +1,22 @@
+{
+  "name": "nodejsmysqlcrud",
+  "version": "1.0.0",
+  "description": "first project for nodejs with mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayabal90/nodejs-mysql-crud.git"
+  },
+  "keywords": [
+    "nodejsmysql"
+  ],
+  "author": "jayabal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayabal90/nodejs-mysql-crud/issues"
+  },
+  "homepage": "https://github.com/jayabal90/nodejs-mysql-crud#readme"
+}
